@@ -6,11 +6,11 @@ Este repositório contém a solução para o desafio técnico de Engenheiro de D
 
 ## Notebooks
 
-- `bronze_layer.ipynb`: Carregamento dos dados brutos.
-- `silver_layer.ipynb`: Processamento e limpeza dos dados.
-- `gold_layer.ipynb`: Criação da visão analítica.
-- `full_load.ipynb`: Executa todo o pipeline para cargas full.
-- `incremental_load.ipynb`: Executa o pipeline para cargas incrementais.
+- `bronze_layer.dbc`: Carregamento dos dados brutos.
+- `silver_layer.dbc`: Processamento e limpeza dos dados.
+- `gold_layer.dbc`: Criação da visão analítica.
+- `full_load.dbc`: Executa todo o pipeline para cargas full.
+- `incremental_load.dbc`: Executa o pipeline para cargas incrementais.
 
 ## Instruções de Configuração
 
