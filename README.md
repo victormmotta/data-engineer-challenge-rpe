@@ -16,22 +16,22 @@ Este repositório contém a solução para o desafio técnico de Engenheiro de D
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/data-engineer-challenge.git
+   git clone https://github.com/victormmotta/data-engineer-challenge-rpe.git
 
 2. Importe os notebooks no Databricks:
 - Navegue até o workspace do Databricks.
 - Clique em Workspace > Users > Seu Usuário.
 - Clique com o botão direito na pasta do seu usuário e selecione Import.
-- Faça o upload dos notebooks baixados (.ipynb ou .dbc).
+- Faça o upload dos notebooks baixados (.dbc).
 
 ## Execução
 
 1. Carga Full:
-- Navegue até o notebook full_load.ipynb no Databricks.
+- Navegue até o notebook full_load.dbc no Databricks.
 - Execute todas as células do notebook para realizar uma carga completa dos dados.
 
 2. Cargas Incrementais:
-- Navegue até o notebook incremental_load.ipynb no Databricks.
+- Navegue até o notebook incremental_load.dbc no Databricks.
 - Execute todas as células do notebook para processar e carregar dados incrementais.
 
 ## Dependências
